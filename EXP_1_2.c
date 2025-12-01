@@ -4,7 +4,7 @@ int main()
 {
    /*
     NAME:- PARKAR MOHAMMED DILAWAR
-    CLASS:- COMPS F.Y. DIVISION:- C-260
+    CLASS:- COMPS F.Y. DIVISION:- C-2
     UIN:- 251P043
     */
     int p,c,m;
@@ -19,4 +19,5 @@ int main()
     printf("Physics=%d\nChemistry=%d\nMaths=%d\nAverage=%f\n",p,c,m,avg);
     avg>50?printf("YOU ARE ELIGIBLE FOR ADMISSION...%c",1):printf("YOU ARE NOT ELIGIBLE FOR ADMISSION");
     return 0;
+
 }
